@@ -1,0 +1,17 @@
+.div1 { 
+	height: 100px;
+	width: 100px;
+	background: red; 
+	float: right;
+	border-radius: 100%;
+	border: 5px;
+	text-align: center;
+	}
+.div2 { 
+	height: 100px;
+	width: 100px;
+	background: red; 
+	float: right;
+	border: 5px;
+	text-align: center;
+	}
